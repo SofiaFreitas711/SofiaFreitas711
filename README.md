@@ -1,7 +1,7 @@
 <h2 align='center'>Hello, I´m Sofia!</h2>
 <h4 align='center'>A front-end developer who can also do web design</h4>
 <br>
-<p> 📗 Graduated in Web Development at ESMAD, IPP. Starting now my master´s degree in Interactive systems and media </p>
+<p> 📗 Web Developer </p>
 <br>
 <p>Tools I use while working:</p>
 <p align="left"> 
