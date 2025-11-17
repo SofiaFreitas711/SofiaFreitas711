@@ -16,7 +16,7 @@
 </ul>
 
 <h3>👀 But Sofia, what are you doing right now?</h3>
-<p>Right now I'm learning about EletronJS, doing a <a href="https://github.com/SofiaFreitas711/Bingo">Bingo</a> project</p>
+<p>Right now I'm learning about ElectronJS, doing a <a href="https://github.com/SofiaFreitas711/Bingo">Bingo</a> project</p>
 
 <h3>💻 Tech Preferences:</h3>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
