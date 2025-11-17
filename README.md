@@ -19,6 +19,7 @@
 <p>Right now I'm learning about ElectronJS, doing a <a href="https://github.com/SofiaFreitas711/Bingo">Bingo</a> project</p>
 
 <h3>💻 Tech Preferences:</h3>
+<div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -32,11 +33,12 @@
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=%23FF61F6" alt="Adobe XD">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva">
+</div>
 
 <h3>📊 GitHub Stats:</h3>
+<div style="display: flex; gap: 10px;">
 <img src="https://nirzak-streak-stats.vercel.app/?user=SofiaFreitas711&theme=rose&hide_border=true" alt="GitHub Streak Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaFreitas711&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
 
 <h3 align="center">💬 Let´s keep in touch, follow me or send me a message on <a href="www.linkedin.com/in/sofiafreitas711">LinkedIn</a></h3>
