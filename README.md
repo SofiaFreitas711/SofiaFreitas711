@@ -16,7 +16,7 @@
 </ul>
 
 <h3>👀 But Sofia, what are you doing right now?</h3>
-<p>Right now I'm learning about ElectronJS, doing a <a href="https://github.com/SofiaFreitas711/Bingo">Bingo</a> project</p>
+<p>Right now I'm learning about ElectronJS, while working on a <a href="https://github.com/SofiaFreitas711/Bingo">Bingo</a> project</p>
 
 <h3>💻 Tech Preferences:</h3>
 <div style="display: flex; gap: 10px;">
